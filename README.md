@@ -48,7 +48,7 @@ Este projeto implementa um pipeline ETL (Extract, Transform, Load) que extrai da
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/lucasodl95/ETLMoviesIMDB
 cd seu-projeto
 ```
 
